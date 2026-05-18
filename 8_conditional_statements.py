@@ -42,11 +42,13 @@
 # if name is exactly 5 charecters ==> Good Name
 # if name is more than 5 charecters == > Big Name
 
-name = input("Enter your name: ")
+# name = input("Enter your name: ")
 
-if len(name) < 5:
-    print("Small Name")
-elif len(name) == 5:
-    print("Good Name")
-else:
-    print("Big Name")
+# if len(name) < 5:
+#     print("Small Name")
+# elif len(name) == 5:
+#     print("Good Name")
+# else:
+#     print("Big Name")
+
+#--------------
