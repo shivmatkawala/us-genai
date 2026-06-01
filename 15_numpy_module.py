@@ -222,4 +222,126 @@ import numpy as np
 # print(a % b)
 
 #---------------------
+# array:
+
+# print(np.array((12, 23, 34, 45)))
+# print(np.array({100, 200, 300, 400, 200, 100}))
+
+
+# arange:
+# print(np.arange(1, 10, 2))
+
+# linspace:
+# print(np.linspace(0, 100, 5))
+
+# zeros:
+# print(np.zeros((2, 3)))
+
+# ones:
+# print(np.ones((4, 5)))
+
+# reshape:
+# arr = np.arange(12)
+# print(arr)
+
+# reshaped = arr.reshape((3, 4))
+# print(reshaped)
+
+# sum:
+# arr1 = np.array([10, 20, 30])
+# print(np.sum(arr1))
+
+# arr2 = [
+#     [1, 2, 3],
+#     [4, 5, 6],
+#     [7, 8, 9]
+# ]
+
+# arr3 = np.array(arr2)
+# print(np.sum(arr3))
+
+
+# mean:
+# arr = np.array([10, 20, 30, 40])
+# print(arr.mean())
+
+# max:
+# print(np.max(arr))
+
+# min:
+# print(np.min(arr))
+
+# where:  It returns indexes where condition is true
+# arr1 = np.array([10, 20, 30, 40, 50])
+# result = np.where(arr1 > 25)
+# print(result)
+
+
+# Replace values conditionaly
+
+# arr2 = np.array([10, 20, 30, 40, 50])
+# result = np.where(arr2 > 25, "Pass", "Fail")
+# print(result)
+
+# unique:  removes duplicates and it sorts:
+# arr3 = np.array([1, 2, 2, 3, 4, 4, 4, 5, 6, 1, 0, 7])
+# print(np.unique(arr3))
+
+# sort: sorts elements
+
+# arr4 = np.array([50, 30, 20, 20, 10, 70, 25])
+# print(np.sort(arr4))
+
+# Generate random floats between 0 and 1
+
+# arr5 = np.random.rand(5)
+# print(arr5)
+
+# arr6 = np.random.rand(2, 3)
+# print(arr6)
+
+
+#---------------------
+# random integers
+# arr7 = np.random.randint(1, 10, size=5)
+# print(arr7)
+
+# arr8 = np.random.randint(low=5, high=20, size=(2, 5))
+# print(arr8)
+
+
+#-------------------
+# Dot Product / Matrix Multiplication 
+# dot:
+
+# a = np.array([1, 2, 3])
+# b = np.array([4, 5, 6])
+
+# print(np.dot(a, b))
+
+
+# p = np.array([
+#     [1, 2],
+#     [3, 4]
+# ])
+
+# q = np.array([
+#     [5, 6],
+#     [7, 8]
+# ])
+
+# print(np.dot(p, q))
+
+#-------------
+# matrix inverse
+# linalg:
+
+# A = np.array([
+#     [1, 2],
+#     [3, 4]
+# ])
+
+# print(np.linalg.inv(A))
+# print(np.linalg.det(A))
+
 
