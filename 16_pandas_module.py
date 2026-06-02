@@ -23,15 +23,15 @@ import pandas as pd
 
 # Create Series using Pandas:
 
-s1 = pd.Series([10, 20, 30])
-print(s1)
+# s1 = pd.Series([10, 20, 30])
+# print(s1)
 
-s2 = pd.Series(("A", "B", "C"))
-print(s2)
+# s2 = pd.Series(("A", "B", "C"))
+# print(s2)
 
 # Cant use Set (because it is unordered)
-s3 = pd.Series(["A", 2, 3.4])
-print(s3)
+# s3 = pd.Series(["A", 2, 3.4])
+# print(s3)
 
 s4 = pd.Series([90, 50, 20], index=["A", "B", "C"])
 print(s4)
