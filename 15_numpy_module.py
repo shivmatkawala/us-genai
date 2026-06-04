@@ -342,6 +342,4 @@ import numpy as np
 # ])
 
 # print(np.linalg.inv(A))
-# print(np.linalg.det(A))
-
-
+# print(np.linalg.

@@ -1,0 +1,163 @@
+{
+  "dataset": "American Presidents",
+  "total": 47,
+  "last_updated": "2026-06-04",
+  "presidents": [
+    {
+      "number": 1,
+      "name": "George Washington",
+      "party": "Independent",
+      "term_start": "1789-04-30",
+      "term_end": "1797-03-04",
+      "age_at_inauguration": 57,
+      "home_state": "Virginia",
+      "prior_occupation": "General/Farmer",
+      "vice_president": "John Adams",
+      "key_notes": "First President; set two-term precedent"
+    },
+    {
+      "number": 2,
+      "name": "John Adams",
+      "party": "Federalist",
+      "term_start": "1797-03-04",
+      "term_end": "1801-03-04",
+      "age_at_inauguration": 61,
+      "home_state": "Massachusetts",
+      "prior_occupation": "Lawyer",
+      "vice_president": "Thomas Jefferson",
+      "key_notes": "First VP to become President"
+    },
+    {
+      "number": 3,
+      "name": "Thomas Jefferson",
+      "party": "Democratic-Republican",
+      "term_start": "1801-03-04",
+      "term_end": "1809-03-04",
+      "age_at_inauguration": 57,
+      "home_state": "Virginia",
+      "prior_occupation": "Lawyer/Planter",
+      "vice_president": "Aaron Burr / George Clinton",
+      "key_notes": "Author of Declaration of Independence; Louisiana Purchase"
+    },
+    {
+      "number": 4,
+      "name": "James Madison",
+      "party": "Democratic-Republican",
+      "term_start": "1809-03-04",
+      "term_end": "1817-03-04",
+      "age_at_inauguration": 57,
+      "home_state": "Virginia",
+      "prior_occupation": "Lawyer/Planter",
+      "vice_president": "George Clinton / Elbridge Gerry",
+      "key_notes": "Father of the Constitution; War of 1812"
+    },
+    {
+      "number": 5,
+      "name": "James Monroe",
+      "party": "Democratic-Republican",
+      "term_start": "1817-03-04",
+      "term_end": "1825-03-04",
+      "age_at_inauguration": 58,
+      "home_state": "Virginia",
+      "prior_occupation": "Lawyer",
+      "vice_president": "Daniel D. Tompkins",
+      "key_notes": "Monroe Doctrine; Era of Good Feelings"
+    },
+    {
+      "number": 16,
+      "name": "Abraham Lincoln",
+      "party": "Republican",
+      "term_start": "1861-03-04",
+      "term_end": "1865-04-15",
+      "age_at_inauguration": 52,
+      "home_state": "Illinois",
+      "prior_occupation": "Lawyer",
+      "vice_president": "Hannibal Hamlin / Andrew Johnson",
+      "key_notes": "Civil War; Emancipation Proclamation; assassinated"
+    },
+    {
+      "number": 26,
+      "name": "Theodore Roosevelt",
+      "party": "Republican",
+      "term_start": "1901-09-14",
+      "term_end": "1909-03-04",
+      "age_at_inauguration": 42,
+      "home_state": "New York",
+      "prior_occupation": "Author/Politician",
+      "vice_president": "Charles W. Fairbanks",
+      "key_notes": "Youngest president; trust-busting; Panama Canal"
+    },
+    {
+      "number": 32,
+      "name": "Franklin D. Roosevelt",
+      "party": "Democrat",
+      "term_start": "1933-03-04",
+      "term_end": "1945-04-12",
+      "age_at_inauguration": 51,
+      "home_state": "New York",
+      "prior_occupation": "Lawyer/Politician",
+      "vice_president": "John N. Garner / Henry A. Wallace / Harry S. Truman",
+      "key_notes": "New Deal; WWII; only president elected 4 times; died in office"
+    },
+    {
+      "number": 35,
+      "name": "John F. Kennedy",
+      "party": "Democrat",
+      "term_start": "1961-01-20",
+      "term_end": "1963-11-22",
+      "age_at_inauguration": 43,
+      "home_state": "Massachusetts",
+      "prior_occupation": "Author/Politician",
+      "vice_president": "Lyndon B. Johnson",
+      "key_notes": "Youngest elected president; Cuban Missile Crisis; assassinated"
+    },
+    {
+      "number": 44,
+      "name": "Barack Obama",
+      "party": "Democrat",
+      "term_start": "2009-01-20",
+      "term_end": "2017-01-20",
+      "age_at_inauguration": 47,
+      "home_state": "Illinois",
+      "prior_occupation": "Lawyer/Senator",
+      "vice_president": "Joe Biden",
+      "key_notes": "First African American president; ACA; killed Bin Laden"
+    },
+    {
+      "number": 45,
+      "name": "Donald Trump",
+      "party": "Republican",
+      "term_start": "2017-01-20",
+      "term_end": "2021-01-20",
+      "age_at_inauguration": 70,
+      "home_state": "New York",
+      "prior_occupation": "Businessman/TV personality",
+      "vice_president": "Mike Pence",
+      "key_notes": "First president impeached twice; COVID-19 pandemic"
+    },
+    {
+      "number": 46,
+      "name": "Joe Biden",
+      "party": "Democrat",
+      "term_start": "2021-01-20",
+      "term_end": "2025-01-20",
+      "age_at_inauguration": 78,
+      "home_state": "Pennsylvania",
+      "prior_occupation": "Lawyer/Senator",
+      "vice_president": "Kamala Harris",
+      "key_notes": "Oldest president; Ukraine war support; Infrastructure Act"
+    },
+    {
+      "number": 47,
+      "name": "Donald Trump",
+      "party": "Republican",
+      "term_start": "2025-01-20",
+      "term_end": "Present",
+      "age_at_inauguration": 78,
+      "home_state": "Florida",
+      "prior_occupation": "Businessman/TV personality",
+      "vice_president": "JD Vance",
+      "key_notes": "Second non-consecutive term"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Sport,Team,Player,Position,Age,Country,Points
+Basketball,Lakers,LeBron James,Forward,39,USA,27
+Basketball,Bulls,Zach LaVine,Guard,29,USA,22
+Soccer,Barcelona,Lionel Messi,Forward,37,Argentina,30
+Soccer,Real Madrid,Luka Modric,Midfielder,40,Croatia,12
+Cricket,India,Virat Kohli,Batsman,37,India,85
+Cricket,Australia,Pat Cummins,Bowler,33,Australia,4
+Tennis,,Novak Djokovic,Singles,39,Serbia,3
+Tennis,,Rafael Nadal,Singles,40,Spain,2
+Baseball,Yankees,Aaron Judge,Outfielder,34,USA,45
+Baseball,Red Sox,Rafael Devers,Infielder,29,Dominican Republic,28
